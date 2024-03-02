@@ -1,4 +1,4 @@
-package Day2;
+package DAY2;
 
 public class firstMissingPositive {
     
