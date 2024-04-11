@@ -1,3 +1,5 @@
+package DAY12;
+
 import java.util.* ;
 import java.io.*; 
 public class SelectionSort{
