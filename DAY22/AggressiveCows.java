@@ -20,7 +20,6 @@ public class AggressiveCows {
     public static int aggressiveCows(int []stalls, int k) {
         //    Write your code here.
         Arrays.sort(stalls);
-       // System.out.println(stalls[stalls.length-1]);
         int high = stalls[stalls.length-1];
         int low = 0;
         
