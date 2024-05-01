@@ -17,6 +17,7 @@ public class AggressiveCows {
         }
         return 0;
     }
+    
     public static int aggressiveCows(int []stalls, int k) {
         //    Write your code here.
         Arrays.sort(stalls);
